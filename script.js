@@ -1,0 +1,1 @@
+window.alert('Site do Vitti, Obgd porrr LERRRR!')
